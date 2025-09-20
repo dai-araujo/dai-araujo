@@ -1,11 +1,21 @@
 <p align="center">
   <h1>Hey there! I'm <i>Dai</i> Araujo 💻</h1>
-  <p>
-    Mobile & Front-End Web Developer | Passionate about building modern applications, exploring new technologies, 
-    and crafting clean, scalable code. I love turning ideas into fully functional products, focusing on UX, 
-    performance, and maintainability.
-  </p>
 </p>
+
+<table align="center" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td align="left" style="padding-right: 20px;">
+      <p>
+        Mobile & Front-End Web Developer | Passionate about building modern applications, exploring new technologies, 
+        and crafting clean, scalable code. I love turning ideas into fully functional products, focusing on UX, 
+        performance, and maintainability.
+      </p>
+    </td>
+    <td align="center">
+      <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="coding gif" height="180">
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -14,7 +24,8 @@
   🔭 I’m currently learning Application Development and Web Development. <br>
   ☕ I enjoy exploring new technologies and creating software solutions. <br>
   🎓 Studying computer programming to improve my skills. <br>
-  💼 Focused on mobile and front-end web development.
+  💼 Focused on mobile and front-end web development. <br>
+  🌱 Always learning and exploring new frameworks, libraries, and tools.
 </p>
 
 ---
@@ -48,6 +59,8 @@
   <img alt="MySQL" height="50" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white&labelColor=20232A" />
   <img alt="Redis" height="50" src="https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white&labelColor=20232A" />
   <img alt="Firebase" height="50" src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black&labelColor=20232A" />
+  <img alt="Prisma" height="50" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=prisma&logoColor=white&labelColor=20232A" />
+  <img alt="Sequelize" height="50" src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white&labelColor=20232A" />
 </p>
 
 <p align="center">
@@ -61,42 +74,45 @@
   <img alt="Jest" height="50" src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white&labelColor=20232A" />
   <img alt="ESLint" height="50" src="https://img.shields.io/badge/ESLint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white&labelColor=20232A" />
   <img alt="Prettier" height="50" src="https://img.shields.io/badge/Prettier-F7BA3E?style=for-the-badge&logo=prettier&logoColor=white&labelColor=20232A" />
+  <img alt="CI/CD" height="50" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white&labelColor=20232A" />
+  <img alt="Vercel" height="50" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=20232A" />
 </p>
 
 ---
 
 <p align="center">
   <h3> 🚀 Featured Projects </h3>
-</p>
-
-<p align="center">
-  <a href="https://github.com/dai-araujo/project-1" target="_blank">
-    <img alt="Project 1" height="140" src="https://via.placeholder.com/200x120/0d6efd/ffffff?text=Project+1">
-  </a>
-  <a href="https://github.com/dai-araujo/project-2" target="_blank">
-    <img alt="Project 2" height="140" src="https://via.placeholder.com/200x120/6f42c1/ffffff?text=Project+2">
-  </a>
-  <a href="https://github.com/dai-araujo/project-3" target="_blank">
-    <img alt="Project 3" height="140" src="https://via.placeholder.com/200x120/fb6340/ffffff?text=Project+3">
-  </a>
+  <p>
+    <a href="https://github.com/dai-araujo/project-1" target="_blank">
+      <img alt="Project 1" height="140" src="https://via.placeholder.com/200x120/0d6efd/ffffff?text=Project+1">
+    </a>
+    <a href="https://github.com/dai-araujo/project-2" target="_blank">
+      <img alt="Project 2" height="140" src="https://via.placeholder.com/200x120/6f42c1/ffffff?text=Project+2">
+    </a>
+    <a href="https://github.com/dai-araujo/project-3" target="_blank">
+      <img alt="Project 3" height="140" src="https://via.placeholder.com/200x120/fb6340/ffffff?text=Project+3">
+    </a>
+  </p>
 </p>
 
 ---
 
 <p align="center">
   <h3> 💻 Connect with Me </h3>
-  <a href="https://discord.gg/daianapaula#8842" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
-  </a>
-  <a href="mailto:daianaadepaula1@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-  <a href="https://www.linkedin.com/in/daiana-de-paula-06aa88224/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://github.com/dai-araujo" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
+  <p>
+    <a href="https://discord.gg/daianapaula#8842" target="_blank">
+      <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+    </a>
+    <a href="mailto:daianaadepaula1@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+    </a>
+    <a href="https://www.linkedin.com/in/daiana-de-paula-06aa88224/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+    <a href="https://github.com/dai-araujo" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    </a>
+  </p>
 </p>
 
 ---
@@ -114,27 +130,31 @@
 
 <p align="center">
   <h3> 🌱 Currently Learning </h3>
-  - Next.js / React Native <br>
-  - Advanced TypeScript patterns <br>
-  - Clean Architecture & Design Patterns  
+  <p>
+    - Next.js / React Native <br>
+    - Advanced TypeScript patterns <br>
+    - Clean Architecture & Design Patterns <br>
+    - Testing with Jest & React Testing Library <br>
+    - CI/CD Pipelines and DevOps practices
+  </p>
 </p>
 
 <p align="center">
   <h3> 🎯 Goals </h3>
-  - Build fullstack applications with best practices <br>
-  - Contribute to open-source projects <br>
-  - Improve DevOps & CI/CD skills  
+  <p>
+    - Build fullstack applications with best practices <br>
+    - Contribute to open-source projects <br>
+    - Improve DevOps & CI/CD skills <br>
+    - Master mobile app development
+  </p>
 </p>
-
----
 
 <p align="center">
   <h3> ✨ Fun Section </h3>
   <p>
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="coding gif" height="180">
+    <img src="https://media.giphy.com/media/3o7aD4xNS4S6p1b2WU/giphy.gif" alt="fun gif" height="180">
     <br>
-    Keep learning, building, and having fun!
+    Keep learning, building, and having fun! 😄
   </p>
 </p>
-
 
